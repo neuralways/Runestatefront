@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-
+//sidebar.jsx
 const Sidebar = () => {
   return (
     <div className="w-64 bg-gray-900 text-white flex flex-col">
